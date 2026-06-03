@@ -1,0 +1,26 @@
+#quadro {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+    line-height: 100px;
+}
+
+#quadro-2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#quadro-3 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+span {
+    font-size: 20px;
+}
