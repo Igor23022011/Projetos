@@ -1,0 +1,39 @@
+span {
+    color: rgba(23, 143, 255, 1);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+#first {
+    color: rgba(255, 40, 209, 1);
+     font-size: 60px;
+    font-weight: 600;
+}
+
+#second {
+    color: rgba(255, 209, 59, 1);
+     font-size: 60px;
+    font-weight: 600;
+}
+
+#third {
+    color: rgba(142, 142, 142, 1);
+     font-size: 30px;
+    font-weight: 100;
+}
+
+#fourth {
+    color: rgba(0, 0, 255, 1);
+     font-size: 60px;
+    font-weight: 600;
+}
+
+.one {
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.two {
+    font-size: 60px;
+    font-weight: 600;
+}
