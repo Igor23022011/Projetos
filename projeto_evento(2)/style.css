@@ -1,0 +1,21 @@
+span {
+    color: rgba(0, 255, 234, 1);
+    line-height: 5px;
+}
+
+p {
+    color: white;
+}
+
+.cartão {
+    width: 270px;
+    height: 210px;
+    background-color: rgba(53, 53, 53, 1);
+    padding: 30px;
+    border-radius: 20px;
+}
+
+img-1 {
+    width: 260px;
+    height: 50px;
+}
