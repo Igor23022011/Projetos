@@ -1,0 +1,30 @@
+span {
+    color: red;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+h1 {
+    color: white;
+}
+
+.cabeçalho {
+    background: #0D47A1;
+}
+
+.Sobre {
+    width: 1430px;
+    height: 170px;
+    background-color: white;
+}
+
+.rodapé {
+    background: #0D47A1;
+    color: rgba(118, 225, 255, 1);
+}
+
+body {
+    background-color: rgb(196, 226, 255)
+}

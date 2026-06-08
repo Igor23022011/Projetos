@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(26, 26, 46, 1);
+}
+
+span {
+    color: rgba(0, 212, 255, 1);
+}
+
+p {
+    color: white;
+}
+
+.azul {
+    background-color: rgba(21, 101, 192, 1);
+    padding: 20px;
+}
+
+.verde {
+    background-color: rgba(46, 125, 50, 1);
+    margin: 30px;
+}
+
+.laranja {
+    background-color: rgba(230, 81, 0, 1);
+    padding: 20px;
+    margin: 20px;
+}
