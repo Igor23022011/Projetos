@@ -1,0 +1,133 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#pose {
+    margin: 30px;
+    padding: 7px;
+}
+
+.retangulo {
+    width: 184px;
+    height: 35px;
+    margin: 10px;
+    padding: 7px;
+    border-radius: 1px;
+    border-color: black;
+    border: 1px solid black;
+    font-size: 15px;
+    gap: 10px;
+}
+
+.retangulo:hover {
+    border: 1px;
+    background-color: black;
+    color: white;
+}
+
+
+a {
+    color: black;
+
+}
+
+
+.retangulo-redondo {
+    margin: 30px;
+    padding: 15px 30px;
+    background-color: rgba(128, 232, 255, 1);
+    border-radius: 30px;
+    font-size: 15px;
+    width: 211px;
+    height: 40px;
+    left: 46px;
+    top: 114px;
+}
+
+.retangulo-redondo:hover {
+    background-color: rgba(158, 237, 255, 1);
+    color: black
+}
+
+
+.meio-redondo {
+    margin: 30px;
+    padding: 15px;
+    line-height: 100px;
+    font-size: 15px;
+    background-color: rgba(65, 255, 106, 1);
+    border-radius: 15px;
+    width: 1px;
+    height: 1px;
+}
+
+.meio-redondo:hover {
+    background-color: rgba(139, 255, 164, 1);
+    color: black;
+}
+
+
+.rosa {
+    margin: 35px;
+    padding: 15px;
+    line-height: 1px;
+    font-size: 15px;
+    background-color: rgb(255, 0, 212);
+    border-radius: 5px;
+    width: 65px;
+    height: 1px;
+    color: white;
+    gap: 10px;
+}
+
+.rosa:hover{
+    border: 1px solid rgba(255, 0, 200, 1);
+    background-color: white;
+    color: rgba(255, 0, 200, 1);
+}
+
+.pearto {
+    border: 1px solid rgba(255, 0, 0, 1);
+    color: rgba(255, 0, 0, 1);
+    margin: 30px;
+    padding: 17px;
+    font-size: 15px;
+    border-radius: 30px;
+    width: 128px;
+    height: 35px;
+}
+
+.pearto:hover {
+    background-color: rgba(255, 0, 0, 1);
+    color: white;
+}
+
+
+.login {
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 1);
+    border-bottom: 3px rgba(0, 0, 0, 1);
+    margin: 30px;
+    padding: 20px;
+    height: 20px;
+    width: 80px;
+    line-height: 1px;
+    border-width: 1px 1px 3px 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 5px ;
+    gap: 10px;
+}
+
+.login:hover {
+    background-color: rgba(82, 82, 82, 1);
+    border-color: black;
+    color: white;
+    border-width: 1px 1px 3px 1px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 5px ;
+}
