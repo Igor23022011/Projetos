@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background-color: (255, 255, 255, 1);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(217, 217, 217, 1);
+    align-items: center;
+    padding: 30px 80px;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.hero {
+    background-color: rgba(118, 118, 118, 1);
+    height: 580px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    background-color: rgba(217, 217, 217, 1);
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.cards {
+    
+}
