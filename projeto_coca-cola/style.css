@@ -143,12 +143,18 @@ body {
     justify-content: space-between;
 }
 
+.socials {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
 .socials a {
     width: 32px;
     height: 32px;
 }
 
-.Intagram {
+.Instagram {
     background-image: url(./assets/faInstagram.png);
 }
 
