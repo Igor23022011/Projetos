@@ -1,7 +1,5 @@
-let paises = ['Brasil', 'Argentina', 'Chile', 'Peru', 'Uruguai'];
+let paises = ["Brasil", "Argentina", "Chile", "Peru", "Uruguai"]
 
-
-paises.forEach(function(item,indice){
-    console.log(`${indice} - ${item}`)
-});
-
+paises.forEach(function(pais) {
+  console.log(`País: ${pais}`)
+})
