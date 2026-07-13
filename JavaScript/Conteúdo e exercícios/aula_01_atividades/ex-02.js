@@ -1,1 +1,0 @@
-console.log("Meu nome é Igor, tenho 15 anos e moro em Biguaçu.")
