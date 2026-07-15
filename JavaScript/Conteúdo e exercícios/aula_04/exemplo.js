@@ -19,3 +19,12 @@ let carros = [
 carros.forEach(function(carro) {
     console.log(`Marca: ${carro.marca} - Modelo: ${carro.modelo}`)
 })
+
+
+// EXEMPLO 3
+let livro = {
+    titulo: "Pequeno Príncipe",
+    autor: "Antoine de Saint-Exupéry",
+    ano: 1943,
+    pagina: 96
+}
